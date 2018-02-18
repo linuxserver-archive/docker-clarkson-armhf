@@ -83,6 +83,7 @@ In this instance `PUID=1001` and `PGID=1001`, to find yours use `id user` as bel
 &nbsp;
 
 ## Setting up the application
+`IMPORTANT... THIS IS THE ARMHF VERSION`
 
 Insert a basic user guide here to get a n00b up and running with the software inside the container. DELETE ME
 
