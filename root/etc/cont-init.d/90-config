@@ -1,0 +1,20 @@
+#!/usr/bin/with-contenv bash
+
+echo '
+******************************************************
+******************************************************
+*                                                    *
+*                                                    *
+*          This image has been deprecated            *
+*                                                    *
+*           Use the multi-arch images at             *
+*                                                    *
+*               linuxserver/clarkson                 *
+*                                                    *
+*    https://hub.docker.com/r/linuxserver/clarkson   *
+*                                                    *
+*   https://github.com/linuxserver/docker-clarkson   *
+*                                                    *
+*                                                    *
+*                                                    *
+******************************************************'
